@@ -1,4 +1,4 @@
-# Link to Webapp [https://world-bank-dashboard-api.herokuapp.com](https://enrigle-worldbank-unemploy.herokuapp.com/)
+# Link to Webapp [https://enrigle-worldbank-unemploy.herokuapp.com/](https://enrigle-worldbank-unemploy.herokuapp.com/)
 
 # World Bank API Data Dashboard 
 
@@ -26,4 +26,3 @@ To install the flask app, you need:
 
 On a MacOS/linux system, installation is easy. Open a terminal, and go into 
 the directory with the flask app files. Run `python worldbank.py` in the terminal.
-# worldbank-unemployment
